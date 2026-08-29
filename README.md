@@ -12,7 +12,6 @@ I enjoy building practical AI/ML solutions that combine data-driven methods with
 * 📊 Statistics & Data Science
 * 🧪 Materials Informatics & Scientific Machine Learning
 * ⚗️ AI Applications in Chemistry & Materials Science
-* 🧬 AI Applications in Biology & Biomedical Informatics
 * 🗣️ NLP, LLMs & Language Science
 * ☁️ Cloud Computing & MLOps
 * 🔄 DevOps, CI/CD & ML Deployment
