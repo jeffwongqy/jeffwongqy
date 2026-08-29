@@ -84,18 +84,6 @@ I'm particularly interested in developing **AI/ML applications for scientific an
 
 I am also exploring **LLM applications, RAG systems, MLOps, cloud deployment, and AI-powered data analytics**.
 
-### 📌 Featured Projects
-
-Some areas you will find in my repositories:
-
-* 🔬 Materials Informatics & Materials Property Prediction
-* 🤖 Machine Learning & Statistical Modelling
-* 🧠 LLM / LangChain Applications
-* 📚 Retrieval-Augmented Generation (RAG)
-* ☁️ AWS & Cloud Architecture
-* 🔄 MLOps / CI/CD Pipelines
-* 📊 Data Analytics & Visualization
-
 ### 🤝 Collaboration
 
 I am open to collaborating on **Machine Learning, Deep Learning, and LLM projects**, particularly projects involving scientific and interdisciplinary applications.
@@ -103,6 +91,7 @@ I am open to collaborating on **Machine Learning, Deep Learning, and LLM project
 📧 **Contact:** [jeffreywongqy@hotmail.com](mailto:jeffreywongqy@hotmail.com)
 
 I generally prefer developing **lightweight and efficient models** where appropriate, with an emphasis on **computational efficiency, practical deployment, and sustainable AI**.
+
 
 
 ---
