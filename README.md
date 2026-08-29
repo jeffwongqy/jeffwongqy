@@ -66,10 +66,11 @@ Streamlit · Git · Jupyter
 
   * Specialization in Data Science
   * Minor in Engineering Materials
-* **Specialist Diploma in DevOps — Republic Polytechnic (2026)**
-* **Specialist Diploma in Applied Generative AI — Republic Polytechnic (2026)**
+ 
 * **Specialist Diploma in Cloud Architecting & Management — Republic Polytechnic (2027)**
 * **Specialist Diploma in Business Analytics — Republic Polytechnic (2027)**
+* **Specialist Diploma in DevOps — Republic Polytechnic (2026)**
+* **Specialist Diploma in Applied Generative AI — Republic Polytechnic (2026)**
 * **Specialist Diploma in Vision & Language Analytics — Singapore Polytechnic (2023)**
 * **Specialist Diploma in Biomedical Informatics & Analytics — Republic Polytechnic (2022)**
 * **Specialist Diploma in Applied Artificial Intelligence — Republic Polytechnic (2021)**
