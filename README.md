@@ -1,16 +1,93 @@
-## Hi there 👋
+# Hi there, I'm Jeff 👋
 
-<!--
-**jeffwongqy/jeffwongqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **NUS Statistics Graduate | Data Science | AI/ML | MLOps | Cloud Computing**
 
-Here are some ideas to get you started:
+I am a **Statistics graduate from the National University of Singapore (NUS)**, specializing in **Data Science**, with a minor in **Engineering Materials**. My interests lie at the intersection of **statistics, machine learning, artificial intelligence, and scientific applications**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical AI/ML solutions that combine data-driven methods with domain knowledge, particularly in **materials science, chemistry, biology, and language science**.
+
+### 🔬 Areas of Interest
+
+* 🤖 Machine Learning & Artificial Intelligence
+* 📊 Statistics & Data Science
+* 🧪 Materials Informatics & Scientific Machine Learning
+* ⚗️ AI Applications in Chemistry & Materials Science
+* 🧬 AI Applications in Biology & Biomedical Informatics
+* 🗣️ NLP, LLMs & Language Science
+* ☁️ Cloud Computing & MLOps
+* 🔄 DevOps, CI/CD & ML Deployment
+
+### 💼 Industry & Research Experience
+
+**A*STAR — Materials Informatics**
+
+* Worked on materials informatics and machine learning applications
+* Developed ML models for materials property prediction
+* Explored MLOps, Docker, GitHub and continuous machine learning workflows
+
+**BCA — Data Analytics / Machine Learning**
+
+* Worked on data analytics and machine learning applications
+* Used Python, SQL and data visualization tools to analyze real-world datasets
+
+### 🛠️ Technologies & Tools
+
+**Programming:**
+Python · SQL · R
+
+**Machine Learning:**
+Scikit-learn · XGBoost · TensorFlow · Keras · Pandas · NumPy
+
+**AI / LLM:**
+LangChain · Ollama · RAG · NLP · Generative AI
+
+**MLOps / DevOps:**
+Docker · GitHub · Jenkins · CI/CD · CML
+
+**Cloud & Data:**
+AWS · Power BI · Tableau
+
+**Applications:**
+Streamlit · Git · Jupyter
+
+### 🎓 Education & Professional Qualifications
+
+* **B.Sc. (Hons) Statistics — National University of Singapore**
+
+  * Specialization in Data Science
+  * Minor in Engineering Materials
+* **Specialist Diploma in DevOps — Republic Polytechnic (2026)**
+* **Specialist Diploma in Applied Generative AI — Republic Polytechnic (2026)**
+* **Specialist Diploma in Cloud Architecting & Management — Republic Polytechnic (2027)**
+* **Specialist Diploma in Business Analytics — Republic Polytechnic (2027)**
+* **Specialist Diploma in Vision & Language Analytics — Singapore Polytechnic (2023)**
+* **Specialist Diploma in Biomedical Informatics & Analytics — Republic Polytechnic (2022)**
+* **Specialist Diploma in Applied Artificial Intelligence — Republic Polytechnic (2021)**
+* **Specialist Diploma in Data Science (Predictive Analytics) — Singapore Polytechnic (2020)**
+* **Diploma with Merit in Nanotechnology & Materials Science — Nanyang Polytechnic (2016)**
+
+### 🚀 What I'm Currently Exploring
+
+I'm particularly interested in developing **AI/ML applications for scientific and technical domains**, including:
+
+`Materials Science` → `Chemistry` → `Biology` → `Language Science`
+
+I am also exploring **LLM applications, RAG systems, MLOps, cloud deployment, and AI-powered data analytics**.
+
+### 📌 Featured Projects
+
+Some areas you will find in my repositories:
+
+* 🔬 Materials Informatics & Materials Property Prediction
+* 🤖 Machine Learning & Statistical Modelling
+* 🧠 LLM / LangChain Applications
+* 📚 Retrieval-Augmented Generation (RAG)
+* ☁️ AWS & Cloud Architecture
+* 🔄 MLOps / CI/CD Pipelines
+* 📊 Data Analytics & Visualization
+
+---
+
+📫 **Feel free to explore my repositories and projects.**
+
+⭐ If you find something useful, feel free to star a repository!
