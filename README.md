@@ -17,18 +17,28 @@ I enjoy building practical AI/ML solutions that combine data-driven methods with
 * ☁️ Cloud Computing & MLOps
 * 🔄 DevOps, CI/CD & ML Deployment
 
-### 💼 Industry & Research Experience
+### 💼 Industry & Project Experience
 
-**A*STAR — Materials Informatics**
+**A*STAR — Materials Informatics | Jan 2024 – Aug 2024**
 
-* Worked on materials informatics and machine learning applications
-* Developed ML models for materials property prediction
-* Explored MLOps, Docker, GitHub and continuous machine learning workflows
+* Worked on machine learning and materials informatics applications for materials property prediction
+* Developed and evaluated ML models using Python and statistical techniques
+* Applied MLOps practices including Docker, GitHub and Continuous Machine Learning (CML)
+* Developed a Streamlit-based application for ML model interaction and demonstration
 
-**BCA — Data Analytics / Machine Learning**
+**BCA — Data Analytics & Machine Learning | May 2023 – Aug 2023**
 
-* Worked on data analytics and machine learning applications
-* Used Python, SQL and data visualization tools to analyze real-world datasets
+* Worked on data analytics and machine learning applications using Python and SQL
+* Analyzed real-world datasets and developed data-driven solutions
+* Used data visualization and analytics tools to communicate insights
+
+**MOE — Software Testing / User Acceptance Testing**
+
+* Performed **black-box testing and User Acceptance Testing (UAT)** for software applications
+* Designed and executed test cases based on functional requirements
+* Conducted regression, sanity, boundary-value, edge-case and end-to-end testing
+* Identified, documented and tracked defects to support software quality and system validation
+
 
 ### 🛠️ Technologies & Tools
 
