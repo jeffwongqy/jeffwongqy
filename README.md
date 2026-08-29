@@ -96,6 +96,15 @@ Some areas you will find in my repositories:
 * 🔄 MLOps / CI/CD Pipelines
 * 📊 Data Analytics & Visualization
 
+### 🤝 Collaboration
+
+I am open to collaborating on **Machine Learning, Deep Learning, and LLM projects**, particularly projects involving scientific and interdisciplinary applications.
+
+📧 **Contact:** [jeffreywongqy@hotmail.com](mailto:jeffreywongqy@hotmail.com)
+
+I generally prefer developing **lightweight and efficient models** where appropriate, with an emphasis on **computational efficiency, practical deployment, and sustainable AI**.
+
+
 ---
 
 📫 **Feel free to explore my repositories and projects.**
