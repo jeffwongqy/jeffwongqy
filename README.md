@@ -4,7 +4,7 @@
 
 I am a **Statistics graduate from the National University of Singapore (NUS)**, specializing in **Data Science**, with a minor in **Engineering Materials**. My interests lie at the intersection of **statistics, machine learning, artificial intelligence, and scientific applications**.
 
-I enjoy building practical AI/ML solutions that combine data-driven methods with domain knowledge, particularly in **materials science, chemistry, biology, and language science**.
+I enjoy building practical AI/ML solutions that combine data-driven methods with domain knowledge, particularly in **materials science, chemistry, finance, and language science**.
 
 ### 🔬 Areas of Interest
 
