@@ -48,7 +48,7 @@ Python · SQL · R
 Scikit-learn · XGBoost · TensorFlow · Keras · Pandas · NumPy
 
 **AI / LLM:**
-LangChain · Ollama · RAG · NLP · Generative AI
+LangChain · LangGraph · RAG · NLP · Generative AI 
 
 **MLOps / DevOps:**
 Docker · GitHub · Jenkins · CI/CD · CML
