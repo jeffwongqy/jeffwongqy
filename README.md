@@ -22,7 +22,7 @@ I enjoy building practical AI/ML solutions that combine data-driven methods with
 
 * Worked on machine learning and materials informatics applications for materials property prediction
 * Developed and evaluated ML models using Python and statistical techniques
-* Applied MLOps practices including Docker, GitHub and Continuous Machine Learning (CML)
+* Applied MLOps practices including Docker, GitHub and Jenkins
 * Developed a Streamlit-based application for ML model interaction and demonstration
 
 **BCA — Data Analytics & Machine Learning | May 2023 – Aug 2023**
