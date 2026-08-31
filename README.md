@@ -74,7 +74,7 @@ Streamlit · Git · Jupyter
 * **Specialist Diploma in Biomedical Informatics & Analytics — Republic Polytechnic (2022)**
 * **Specialist Diploma in Applied Artificial Intelligence — Republic Polytechnic (2021)**
 * **Specialist Diploma in Data Science (Predictive Analytics) — Singapore Polytechnic (2020)**
-* **Diploma with Merit in Nanotechnology & Materials Science — Nanyang Polytechnic (2016)**
+* **Diploma with Merit in Nanotechnology & Materials Science — Nanyang Polytechnic (2017)**
 
 ### 🚀 What I'm Currently Exploring
 
