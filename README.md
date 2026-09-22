@@ -77,7 +77,7 @@ Streamlit · Git · Jupyter
 
 ### 🚀 What I'm Currently Exploring
 
-I'm particularly interested in developing **AI/ML applications for scientific and technical domains**, including: engineering science and language science.
+I'm particularly interested in developing **AI/ML applications for scientific and technical domains**, including engineering science and language science.
 
 ### 🤝 Collaboration
 
