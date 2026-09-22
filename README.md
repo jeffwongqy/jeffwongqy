@@ -65,7 +65,8 @@ Streamlit · Git · Jupyter
 
   * Specialization in Data Science
   * Minor in Engineering Materials
- 
+
+* **Specialist Diploma in Business Analytics with Agentic AI - Republic Polytechnic (2028)**
 * **Specialist Diploma in Cloud Architecting & Management — Republic Polytechnic (2027)**
 * **Specialist Diploma in Business Analytics — Republic Polytechnic (2027)**
 * **Specialist Diploma in DevOps — Republic Polytechnic (2026)**
