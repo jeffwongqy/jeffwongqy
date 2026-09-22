@@ -79,11 +79,7 @@ Streamlit · Git · Jupyter
 
 ### 🚀 What I'm Currently Exploring
 
-I'm particularly interested in developing **AI/ML applications for scientific and technical domains**, including:
-
-`Materials Science` → `Chemistry` → `Biology` → `Language Science`
-
-I am also exploring **LLM applications, RAG systems, MLOps, cloud deployment, and AI-powered data analytics**.
+I'm particularly interested in developing **AI/ML applications for scientific and technical domains**, including: engineering science and language science.
 
 ### 🤝 Collaboration
 
@@ -92,7 +88,6 @@ I am open to collaborating on **Machine Learning, Deep Learning, and LLM project
 📧 **Contact:** [jeffreywongqy@hotmail.com](mailto:jeffreywongqy@hotmail.com)
 
 I generally prefer developing **lightweight and efficient models** where appropriate, with an emphasis on **computational efficiency, practical deployment, and sustainable AI**.
-
 
 
 ---
