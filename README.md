@@ -1,6 +1,6 @@
 # Hi there, I'm Jeff 👋
 
-🎓 **NUS Statistics Graduate | Data Science | AI/ML | MLOps | Cloud Computing**
+🎓 **NUS Statistics Graduate | Data Science | AI/ML | MLOps | Cloud Computing | Agentic AI**
 
 I am a **Statistics graduate from the National University of Singapore (NUS)**, specializing in **Data Science**, with a minor in **Engineering Materials**. My interests lie at the intersection of **statistics, machine learning, artificial intelligence, and scientific applications**.
 
